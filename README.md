@@ -32,6 +32,26 @@ Phone number, Aadhaar, PIN, and other inputs are validated to maintain security.
 Technology Stack
 Programming Language: Python Concepts Used: Object-Oriented Programming (OOP)
 
+Usage
+The system comes with three pre-created accounts for demonstration:
+
+Shiva (Account operations)
+
+Akhil (Transfer operations)
+
+Sudhakar (High balance account)
+Code Structure
+
+Sbi class containing all banking operations
+
+Static methods for input validation
+
+Class methods for banking operations
+
+Class variables for bank details and customer records
+
+Instance variables for customer-specific data
+
 Class Structure (Sbi Class)
 Attributes:
 Bank_Name, Bank_Loc, Ifsc_code, Bank_Mgr, Pin_Code (Bank Details)
